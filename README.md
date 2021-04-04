@@ -1,5 +1,5 @@
 # Exhibition-Centre
-A Unity game potraying random science facts. Under Construction
+A Unity game potraying random science facts. 
 
 #Download
 For PC , Mac , Linux Standalone : https://drive.google.com/drive/folders/16u44q78H1GFwxnxnEdu8F7mr_VfID1A2?usp=sharing
@@ -11,4 +11,10 @@ Screenshot1
 Screenshot 2
 <img src ="https://github.com/Akshit17/Exhibition-Centre/blob/master/Screenshots/Desktop%20Screenshot%202021.03.19%20-%2018.02.10.16%20(2).png" />
 
+
+
+
+Future idea :
+
+Adding more projects to the exhibition centre to make it look more flashy
 ........................................................................

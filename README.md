@@ -2,7 +2,7 @@
 A Unity game potraying random science facts. 
 
 #Download
-For PC , Mac , Linux Standalone : https://drive.google.com/drive/folders/16u44q78H1GFwxnxnEdu8F7mr_VfID1A2?usp=sharing
+For PC , Mac , Linux Standalone : https://drive.google.com/file/d/1HlOra7gMfRAk89d2g4xWuSCt_Pdpa3Rx/view?usp=sharing
 
 #Video Demo
 https://drive.google.com/file/d/1dplKL1wETaQnQ3rnq5eudp9ycV4JVUG2/view?usp=sharing
